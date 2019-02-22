@@ -1,0 +1,2 @@
+git clone repo url to clone the repo\
+git branch to check the branch
