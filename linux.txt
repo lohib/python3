@@ -1,0 +1,3 @@
+ls to list the files
+cd dir name to go to that directory
+cp src dest source to destination
